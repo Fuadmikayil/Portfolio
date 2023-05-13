@@ -681,7 +681,7 @@ nav .div_sec  ul li a:hover{
 }
 @media(max-width:430px){
     .service .service_esas h1{
-    font-size: 25px;
+    font-size: 20px;
     }
     .service .service_esas .service_esas_hisseler .service_esas_hisseler1 h1{
         font-size: 1.2rem;
